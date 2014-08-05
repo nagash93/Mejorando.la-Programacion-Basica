@@ -1,0 +1,39 @@
+.panel-heading
+{
+	height: 100px
+}
+.panel-default .panel-heading
+{
+	background: #777;
+	color: #fff;
+}
+
+.panel-primary .panel-heading
+{
+	background: #428bca;
+	color: #fff;
+}
+
+.panel-success .panel-heading
+{
+	background: #5cb85c;
+	color: #fff;
+}
+
+.panel-info .panel-heading
+{
+	background: #5bc0de;
+	color: #fff;
+}
+
+.panel-warning .panel-heading
+{
+	background: #f0ad4e;
+	color: #fff;
+}
+
+.panel-danger .panel-heading
+{
+	background: #d9534f;
+	color: #fff;
+}
